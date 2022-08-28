@@ -7,7 +7,7 @@ public class Weapon {
     String Rarity;
     String Description;
   
-    public void Weaponlore() {
+    public void Weaponnaries() {
       System.out.println("MyWeapon: " + name);
       System.out.println("MyDamage:" + damage);
       System.out.println("MyWeight: " + Weight);
