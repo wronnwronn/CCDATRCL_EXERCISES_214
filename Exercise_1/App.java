@@ -67,7 +67,7 @@ public class App {
             BroadSword.Weight = 80;
             BroadSword.Rarity = "Rare";
             BroadSword.Description = "A courageous sword that only the mighty once can used";
-            BroadSword.Weaponlore();
+            
 
             Weapon MithrilHammer = new Weapon();
 
@@ -77,7 +77,7 @@ public class App {
             MithrilHammer.Weight = 125;
             MithrilHammer.Rarity = "Extremely Rare";
             MithrilHammer.Description = "A hammer that came from another dimension that is imbued with lightning ";
-            MithrilHammer.Weaponlore();
+            
 
             Weapon AghhanimsScepter = new Weapon();
 
@@ -87,6 +87,6 @@ public class App {
             AghhanimsScepter.Weight = 60;
             AghhanimsScepter.Rarity = "Very Rare";
             AghhanimsScepter.Description = "This Scepter can provide a new ability when used and add all attributes";
-            AghhanimsScepter.Weaponlore();
+            
     }
 }
