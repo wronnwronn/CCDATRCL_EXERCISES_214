@@ -86,7 +86,7 @@ public class App {
             AghhanimsScepter.damage = 300;
             AghhanimsScepter.Weight = 60;
             AghhanimsScepter.Rarity = "Very Rare";
-            AghhanimsScepter.Description = "This Scepter can provide a new ability when used and add";
+            AghhanimsScepter.Description = "This Scepter can provide a new ability when used and add all attributes";
             AghhanimsScepter.Weaponlore();
     }
 }
